@@ -1,6 +1,5 @@
-# My review to ReactJS - Component
+# My review to ReactJS - Conditional Render
 
-## Why handle event?
+## Why Conditional Render event?
 
-Handle event is very important because all actions, change state for exemple,
-need to event!
+Conditional Render is the rendering done through the if()!
